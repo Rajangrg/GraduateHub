@@ -1,0 +1,13 @@
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\bin\Debug\netcoreapp3.0\GraduateHub.DataAccess.deps.json
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\bin\Debug\netcoreapp3.0\GraduateHub.DataAccess.dll
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\bin\Debug\netcoreapp3.0\GraduateHub.DataAccess.pdb
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\bin\Debug\netcoreapp3.0\GraduateHub.Models.dll
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\bin\Debug\netcoreapp3.0\GraduateHub.Utility.dll
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\bin\Debug\netcoreapp3.0\GraduateHub.Utility.pdb
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\bin\Debug\netcoreapp3.0\GraduateHub.Models.pdb
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\obj\Debug\netcoreapp3.0\GraduateHub.DataAccess.csprojAssemblyReference.cache
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\obj\Debug\netcoreapp3.0\GraduateHub.DataAccess.AssemblyInfoInputs.cache
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\obj\Debug\netcoreapp3.0\GraduateHub.DataAccess.AssemblyInfo.cs
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\obj\Debug\netcoreapp3.0\GraduateHub.DataAccess.csproj.CopyComplete
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\obj\Debug\netcoreapp3.0\GraduateHub.DataAccess.dll
+D:\Project\GraduateHub\GraduateHub\GraduateHub.DataAccess\obj\Debug\netcoreapp3.0\GraduateHub.DataAccess.pdb

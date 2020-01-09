@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - GraduateHub</title>
+    <link rel="stylesheet" href="~/lib/uikit/css/uikit.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="uk-navbar-container " uk-navbar style="background-color: #000; ">
+
+            <div class="uk-navbar-left">
+                <ul class="uk-navbar-nav">
+                    <li ><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></li>
+                </ul>
+            </div>
+
+            <div class="uk-navbar-right">
+                <!--login & register-->
+                <partial name="_LoginPartial" />
+            </div>
+        </nav>
+    </header>
+
+    <div class="uk-container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    
+    <footer class="uk-section uk-section-small footer" >
+        <div class="uk-container">
+            <p class="uk-text-small uk-text-center">&copy; @DateTime.Now.ToString("yyyy")- GraduateHub  <br />
+            <a href="https://www.linkedin.com/in/rajan-gurung-980bb2a2">Created by Rajan</a> | Built with <a href="http://getuikit.com" title="Visit UIkit 3 site" target="_blank" data-uk-tooltip><span data-uk-icon="uikit"></span></a> </p>
+        </div>
+    </footer>
+
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/uikit/js/uikit.min.js"></script>
+    <script src="~/lib/uikit/js/uikit-icons.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
